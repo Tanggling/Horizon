@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-    "model": "claude-fable-5-1",
+    "model": "gpt-6-astra",
     "base_url": "https://api.penguinsaichat.dpdns.org/v1",
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
